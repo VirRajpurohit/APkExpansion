@@ -1,0 +1,1 @@
+include ':app', ':downloaderlibrary', ':licenselibrary', ':ziplibrary'
